@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1848-89CC
+
+ Directory of C:\Users\USER\OneDrive\Desktop\Git Project
+
+10 Oct 2024  22:24    <DIR>          .
+10 Oct 2024  22:18    <DIR>          ..
+10 Oct 2024  22:24                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  192,816,222,208 bytes free
